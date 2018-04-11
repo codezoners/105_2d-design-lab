@@ -1,0 +1,11 @@
+~-*- mode: org; mode: visual-line; -*-~
+#+STARTUP: indent
+
+* ~203_2d-design-lab~
+** 2D Design Lab
+*** Timetable
+
+| When             | Week | In Class                                            |
+|------------------+------+-----------------------------------------------------|
+| [2018-04-17 Tue] |    1 | Brainstorming; sensors; software stack introduction |
+| [2018-04-19 Thu] |    1 | Software stacks: <br> hands-on                      |
