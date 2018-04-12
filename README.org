@@ -1,9 +1,8 @@
 ~-*- mode: org; mode: visual-line; -*-~
 #+STARTUP: indent
 
-* ~203_2d-design-lab~
-** 2D Design Lab
-*** Timetable
+* ~105_2d-design-lab~
+** Timetable
 
 | Week | When               | In Class                                | Homework                                     |
 |------+--------------------+-----------------------------------------+----------------------------------------------|
@@ -20,7 +19,7 @@
 |      |                    | UI design                               |                                              |
 |------+--------------------+-----------------------------------------+----------------------------------------------|
 | *2*  | ~[2018-04-26 Thu]~ | Mapping out the tile project            | Research: [[http://www.tutorialspoint.com/python/python_classes_objects.htm][Python OOP (tutorialspoint)]]        |
-|      |                    | Object-oriented design                  |                                              |
+|      |                    | Object-oriented design                  | Multiple files/classes in Processing         |
 |------+--------------------+-----------------------------------------+----------------------------------------------|
 | *3*  | ~[2018-05-01 Tue]~ | Algorithms, mechanics and physics       | Research: game physics                       |
 |      |                    |                                         | Formative preparation                        |
@@ -29,8 +28,8 @@
 |      |                    | Design presentations in class           |                                              |
 |      |                    | /Tutor: Maria Turk/                     |                                              |
 |------+--------------------+-----------------------------------------+----------------------------------------------|
-| *4*  | ~[2018-05-08 Tue]~ | Feature wrapping                        | Prepare for summative hand-in                |
-|      |                    | Documentation and instructions          | Code presentation and commenting             |
+| *4*  | ~[2018-05-08 Tue]~ | Feature wrapping                        | Prepare for summative hand-in (see brief)    |
+|      |                    | Documentation and instructions          | Code presentation, commenting, documentation |
 |      |                    | Designing a "demo mode"                 |                                              |
 |------+--------------------+-----------------------------------------+----------------------------------------------|
 | *4*  | ~[2018-05-11 Fri]~ | *SUMMATIVE 1, 4pm*                      |                                              |
@@ -49,7 +48,7 @@
 |------+--------------------+-----------------------------------------+----------------------------------------------|
 | *6*  | ~[2018-05-24 Thu]~ | Mapping and annotating with [[http://leafletjs.com/][Leaflet]]     | Field work: data gathering                   |
 |------+--------------------+-----------------------------------------+----------------------------------------------|
-| *7*  | ~[2018-05-29 Tue]~ | Introduction to charting                | Research: test projects in [[https://www.chartjs.org/][Chart.js]]          |
+| *7*  | ~[2018-05-29 Tue]~ | Introduction to datasets and charting   | Research: test projects in [[https://www.chartjs.org/][Chart.js]]          |
 |------+--------------------+-----------------------------------------+----------------------------------------------|
 | *7*  | ~[2018-05-31 Thu]~ | Page design and layout: maps and charts | Formative preparation                        |
 |      |                    | More map building                       |                                              |
@@ -61,7 +60,8 @@
 |      |                    | Asset integration                       |                                              |
 |      |                    | UI and interaction                      |                                              |
 |------+--------------------+-----------------------------------------+----------------------------------------------|
-| *9*  | ~[2018-06-12 Tue]~ | Design and feature wrap                 | Prepare for summative hand-in                |
+| *9*  | ~[2018-06-12 Tue]~ | Design and feature wrap                 | Prepare for summative hand-in (see brief)    |
+|      |                    |                                         | Code presentation, commenting, documentation |
 |      |                    |                                         | Digital portfolio, research, ...             |
 |------+--------------------+-----------------------------------------+----------------------------------------------|
 | *9*  | ~[2018-06-14 Thu]~ | *SUMMATIVE 2, 4pm*                      |                                              |
