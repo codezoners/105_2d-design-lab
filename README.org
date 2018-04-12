@@ -5,61 +5,66 @@
 ** 2D Design Lab
 *** Timetable
 
-| Week | When               | In Class                                | Homework |
-|------+--------------------+-----------------------------------------+----------|
-| *1*  | ~[2018-04-17 Tue]~ | *PROJECT 1: TILES*                      |          |
-|      |                    | Unit introduction, project brief        |          |
-|      |                    | /Processing/: re-introduction           |          |
-|      |                    | Basics: boxes, grids and 2D layout      |          |
-|------+--------------------+-----------------------------------------+----------|
-|      | ~[2018-04-19 Thu]~ | Tile puzzles                            |          |
-|      |                    | Processing: programming interaction     |          |
-|      |                    | (clicking, dragging, mode changes)      |          |
-|------+--------------------+-----------------------------------------+----------|
-| *2*  | ~[2018-04-24 Tue]~ | Basics of game play                     |          |
-|      |                    | UI design                               |          |
-|------+--------------------+-----------------------------------------+----------|
-|      | ~[2018-04-26 Thu]~ | Mapping out the tile project            |          |
-|      |                    | Object-oriented design                  |          |
-|------+--------------------+-----------------------------------------+----------|
-| *3*  | ~[2018-05-01 Tue]~ | Algorithms, mechanics and physics       |          |
-|------+--------------------+-----------------------------------------+----------|
-|      | ~[2018-05-04 Fri]~ | *FORMATIVE 1*                           |          |
-|      |                    | Design presentations in class           |          |
-|      |                    | Tutor: Maria Turk                       |          |
-|------+--------------------+-----------------------------------------+----------|
-| *4*  | ~[2018-05-08 Tue]~ | Feature wrapping                        |          |
-|      |                    | Documentation and instructions          |          |
-|      |                    | Designing a "demo mode"                 |          |
-|------+--------------------+-----------------------------------------+----------|
-|      | ~[2018-05-11 Fri]~ | *SUMMATIVE 1, 4pm*                      |          |
-|      |                    | (User) testing, debugging               |          |
-|      |                    | Hand-in checks                          |          |
-|------+--------------------+-----------------------------------------+----------|
-| *5*  | ~[2018-05-15 Tue]~ | *PROJECT 2: MAPS*                       |          |
-|      |                    | Web basics: HTML, CSS, JS               |          |
-|      |                    | Layout with Bootstrap                   |          |
-|------+--------------------+-----------------------------------------+----------|
-|      | ~[2018-05-17 Thu]~ | Tutor: Tor-Arne Njamo                   |          |
-|------+--------------------+-----------------------------------------+----------|
-| *6*  | ~[2018-05-22 Tue]~ | The Document Object Model               |          |
-|      |                    | Introduction to Javascript and [[https://jquery.com/][jQuery]]   |          |
-|------+--------------------+-----------------------------------------+----------|
-|      | ~[2018-05-24 Thu]~ | Mapping and annotating with [[http://leafletjs.com/][Leaflet]]     |          |
-|------+--------------------+-----------------------------------------+----------|
-| *7*  | ~[2018-05-29 Tue]~ | Introduction to charting                |          |
-|------+--------------------+-----------------------------------------+----------|
-|      | ~[2018-05-31 Thu]~ | Page design and layout: maps and charts |          |
-|------+--------------------+-----------------------------------------+----------|
-| *8*  | ~[2018-06-05 Tue]~ | *FORMATIVE 2*                           |          |
-|      |                    | Theme and design presentations in class |          |
-|------+--------------------+-----------------------------------------+----------|
-|      | ~[2018-06-07 Thu]~ | Data integration and modelling          |          |
-|      |                    | Asset integration                       |          |
-|      |                    | UI and interaction                      |          |
-|------+--------------------+-----------------------------------------+----------|
-| *9*  | ~[2018-06-12 Tue]~ | Design and feature wrap                 |          |
-|------+--------------------+-----------------------------------------+----------|
-|      | ~[2018-06-14 Thu]~ | *SUMMATIVE 2, 4pm*                      |          |
-|      |                    | Testing, debugging                      |          |
-|      |                    | Hand-in checks                          |          |
+| Week | When               | In Class                                | Homework                                     |
+|------+--------------------+-----------------------------------------+----------------------------------------------|
+| *1*  | ~[2018-04-17 Tue]~ | *PROJECT 1: TILES*                      | Python 2 tutorials (on [[https://lynda.com][Lynda]])                |
+|      |                    | Unit introduction, project brief        |                                              |
+|      |                    | Processing: re-introduction             |                                              |
+|      |                    | Basics: boxes, grids and 2D layout      |                                              |
+|------+--------------------+-----------------------------------------+----------------------------------------------|
+|      | ~[2018-04-19 Thu]~ | Tile puzzles                            | Research: tile-based games                   |
+|      |                    | Processing: programming interaction     |                                              |
+|      |                    | (clicking, dragging, mode changes)      |                                              |
+|------+--------------------+-----------------------------------------+----------------------------------------------|
+| *2*  | ~[2018-04-24 Tue]~ | Basics of game play                     | Research: game design                        |
+|      |                    | UI design                               |                                              |
+|------+--------------------+-----------------------------------------+----------------------------------------------|
+|      | ~[2018-04-26 Thu]~ | Mapping out the tile project            | Research: [[http://www.tutorialspoint.com/python/python_classes_objects.htm][Python OOP (tutorialspoint)]]        |
+|      |                    | Object-oriented design                  |                                              |
+|------+--------------------+-----------------------------------------+----------------------------------------------|
+| *3*  | ~[2018-05-01 Tue]~ | Algorithms, mechanics and physics       | Research: game physics                       |
+|      |                    |                                         | Formative preparation                        |
+|------+--------------------+-----------------------------------------+----------------------------------------------|
+|      | ~[2018-05-04 Fri]~ | *FORMATIVE 1*                           | Responses to formative feedback              |
+|      |                    | Design presentations in class           |                                              |
+|      |                    | /Tutor: Maria Turk/                     |                                              |
+|------+--------------------+-----------------------------------------+----------------------------------------------|
+| *4*  | ~[2018-05-08 Tue]~ | Feature wrapping                        | Prepare for summative hand-in                |
+|      |                    | Documentation and instructions          | Code presentation and commenting             |
+|      |                    | Designing a "demo mode"                 |                                              |
+|------+--------------------+-----------------------------------------+----------------------------------------------|
+|      | ~[2018-05-11 Fri]~ | *SUMMATIVE 1, 4pm*                      |                                              |
+|      |                    | (User) testing, debugging               |                                              |
+|      |                    | Hand-in checks                          |                                              |
+|------+--------------------+-----------------------------------------+----------------------------------------------|
+| *5*  | ~[2018-05-15 Tue]~ | *PROJECT 2: MAPS*                       | Produce a simple Bootstrap page              |
+|      |                    | Web basics: HTML, CSS, JS               |                                              |
+|      |                    | Layout with Bootstrap                   |                                              |
+|------+--------------------+-----------------------------------------+----------------------------------------------|
+|      | ~[2018-05-17 Thu]~ | Maps, charts and data                   | Ideas and proposal: Thames map               |
+|      |                    | /Tutor: Tor-Arne Njamo/                 |                                              |
+|------+--------------------+-----------------------------------------+----------------------------------------------|
+| *6*  | ~[2018-05-22 Tue]~ | The Document Object Model               | Learning: [[https://www.lynda.com/jQuery-training-tutorials/246-0.html][jQuery (Lynda)]]                     |
+|      |                    | Introduction to Javascript and [[https://jquery.com/][jQuery]]   |                                              |
+|------+--------------------+-----------------------------------------+----------------------------------------------|
+|      | ~[2018-05-24 Thu]~ | Mapping and annotating with [[http://leafletjs.com/][Leaflet]]     | Field work: data gathering                   |
+|------+--------------------+-----------------------------------------+----------------------------------------------|
+| *7*  | ~[2018-05-29 Tue]~ | Introduction to charting                | Research: test projects in [[https://www.chartjs.org/][Chart.js]]          |
+|------+--------------------+-----------------------------------------+----------------------------------------------|
+|      | ~[2018-05-31 Thu]~ | Page design and layout: maps and charts | Formative preparation                        |
+|      |                    | More map building                       |                                              |
+|------+--------------------+-----------------------------------------+----------------------------------------------|
+| *8*  | ~[2018-06-05 Tue]~ | *FORMATIVE 2*                           | Responses to formative feedback              |
+|      |                    | Theme and design presentations in class |                                              |
+|------+--------------------+-----------------------------------------+----------------------------------------------|
+|      | ~[2018-06-07 Thu]~ | Data integration and modelling          | Coding: interaction between map and chart(s) |
+|      |                    | Asset integration                       |                                              |
+|      |                    | UI and interaction                      |                                              |
+|------+--------------------+-----------------------------------------+----------------------------------------------|
+| *9*  | ~[2018-06-12 Tue]~ | Design and feature wrap                 | Prepare for summative hand-in                |
+|      |                    |                                         | Digital portfolio, research, ...             |
+|------+--------------------+-----------------------------------------+----------------------------------------------|
+|      | ~[2018-06-14 Thu]~ | *SUMMATIVE 2, 4pm*                      |                                              |
+|      |                    | Testing, debugging                      |                                              |
+|      |                    | Hosting                                 |                                              |
+|      |                    | Hand-in checks                          |                                              |
