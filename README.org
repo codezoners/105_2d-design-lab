@@ -11,12 +11,13 @@
 |      |                    | Processing: re-introduction             |                                              |
 |      |                    | Basics: boxes, grids and 2D layout      |                                              |
 |------+--------------------+-----------------------------------------+----------------------------------------------|
-| *1*  | ~[2018-04-19 Thu]~ | Tile puzzles                            | Research: tile-based games                   |
+| *1*  | ~[2018-04-19 Thu]~ | Tile puzzles                            | Research: Python programming                 |
+|      |                    | Basics of game play                     |                                              |
 |      |                    | Processing: programming interaction     |                                              |
 |      |                    | (clicking, dragging, mode changes)      |                                              |
 |------+--------------------+-----------------------------------------+----------------------------------------------|
-| *2*  | ~[2018-04-24 Tue]~ | Basics of game play                     | Research: game design                        |
-|      |                    | UI design                               |                                              |
+| *2*  | ~[2018-04-24 Tue]~ | OOP in Python                           | Research: game design                        |
+|      |                    | Towards a basic application framework   |                                              |
 |------+--------------------+-----------------------------------------+----------------------------------------------|
 | *2*  | ~[2018-04-26 Thu]~ | Mapping out the tile project            | Research: [[http://www.tutorialspoint.com/python/python_classes_objects.htm][Python OOP (tutorialspoint)]]        |
 |      |                    | Object-oriented design                  | Multiple files/classes in Processing         |
@@ -30,7 +31,7 @@
 |------+--------------------+-----------------------------------------+----------------------------------------------|
 | *4*  | ~[2018-05-08 Tue]~ | Feature wrapping                        | Prepare for summative hand-in (see brief)    |
 |      |                    | Documentation and instructions          | Code presentation, commenting, documentation |
-|      |                    | Designing a "demo mode"                 |                                              |
+|      |                    | Optional: designing a "demo mode"       |                                              |
 |------+--------------------+-----------------------------------------+----------------------------------------------|
 | *4*  | ~[2018-05-11 Fri]~ | *SUMMATIVE 1, 4pm*                      |                                              |
 |      |                    | (User) testing, debugging               |                                              |
