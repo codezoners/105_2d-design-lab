@@ -20,7 +20,7 @@
 |      |                    | Towards a basic application framework   |                                              |
 |------+--------------------+-----------------------------------------+----------------------------------------------|
 | *2*  | ~[2018-04-26 Thu]~ | Mapping out the tile project            | Research: [[http://www.tutorialspoint.com/python/python_classes_objects.htm][Python OOP (tutorialspoint)]]        |
-|      |                    | Object-oriented design                  | Multiple files/classes in Processing         |
+|      |                    | Object-oriented design                  | More Python tutorials (start [[https://www.tutorialspoint.com/python/python_overview.htm][here]])           |
 |------+--------------------+-----------------------------------------+----------------------------------------------|
 | *3*  | ~[2018-05-01 Tue]~ | Algorithms, mechanics and physics       | Research: game physics                       |
 |      |                    |                                         | Formative preparation                        |
